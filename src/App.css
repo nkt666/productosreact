@@ -1,0 +1,91 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.Formulario {
+  background-color: black;
+}
+
+.FormularioEdicion {
+  background-color: black;
+}
+
+
+button{
+  background-color: black;
+  width: 300px;
+  height: 30px;
+  color: green;
+  text-align: right;
+  border: 1px solid;
+}
+
+button {
+  width: 100px;
+  border: 0px;
+  height: 30px;
+  color: green;
+  background-color: black;
+}
+
+button {
+  width: 120px;
+  border: 0px;
+  height: 34px;
+  color: green;
+  background-color: black;
+  font-style: bold;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 20px;
+  border: 1px solid;
+}
+
+body {
+  background-color: #000000;
+  color: green;
+  font-style: bold;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+a:visited,
+a:link,
+a:active,
+a:hover {
+  background-color: #222;
+  color: green;
+}
+
+hr {
+  border: 1px solid;
+  color: green;
+}

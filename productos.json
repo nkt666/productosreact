@@ -1,0 +1,19 @@
+{
+  "productos": [
+    {
+      "nombre": "superman",
+      "precio": "456",
+      "id": 17
+    },
+    {
+      "nombre": "batman",
+      "precio": "666",
+      "id": 18
+    },
+    {
+      "nombre": "acuaman",
+      "precio": "888",
+      "id": 19
+    }
+  ]
+}
